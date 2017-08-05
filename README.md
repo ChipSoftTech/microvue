@@ -1,4 +1,4 @@
-# crud-vue
+# microvue
 
 Generic Micro Vue CRUD framework implemented with [Vue.js](https://vuejs.org/).
 
