@@ -30,9 +30,9 @@ npm run e2e
 npm test
 ```
 
-The structure of this project is derived from [vue-cli] (https://github.com/vuejs/vue-cli).
+The structure of this project is derived from [vue-cli] (https://github.com/vuejs/vue-cli){:target="_blank"}.
 
-Forked and inspired from: [crud-vue](https://github.com/lcrespom/crud-vue)
+Forked and inspired from: [crud-vue](https://github.com/lcrespom/crud-vue){:target="_blank"}.
 
 
 ## ToDo
